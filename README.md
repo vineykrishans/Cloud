@@ -12,7 +12,7 @@ Intel Cloud Fundamentals (10 Courses)
         Data Platforms - Done Nov 27
         Cloud Usage - Done Nov 28
         Cloud Hyperscalers - Done Nov 28
-        AI in Cloud - Pending
-        Cloud Networking - Pending
-        Edge to Cloud - Pending
-        Overview of Media Workloads - Pending
+        AI in Cloud - done Nov 29
+        Cloud Networking - Done Nov 29
+        Edge to Cloud - Done Nov 30
+        Overview of Media Workloads - Done Nov 30
